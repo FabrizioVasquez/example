@@ -1,6 +1,6 @@
 # Proyecto Cloud Computing
 
-Este proyecto, llamado "Quadra", permite a los usuarios encontrar opciones de estacionamiento en alquiler cerca de su destino de manera eficiente y económica, utilizando tecnologías como OpenCV y YOLO para la detección automática de autos.
+El siguiente proyecto para el curso de cloud computing permite a los usuarios encontrar opciones de estacionamiento en alquiler cerca de su destino de manera eficiente y económica, utilizando tecnologías como OpenCV y YOLO para la detección automática de autos.
 
 ## Tabla de Contenido
 
@@ -57,12 +57,12 @@ La arquitectura del proyecto está diseñada para utilizar servicios en la nube 
 ## Funcionalidades
 
 1. **Detección de Placas**: El sistema identifica las placas de los vehículos para registrarlos en la base de datos.
-   ![Detección de placas](./img/func1.png)
+   <div align="center"><img src="./img/func1.png" alt="Espacio y Tiempo" width="500" height="300">
 
 2. **Rastreo en Tiempo Real**: Se determina la ubicación y el tiempo de estancia del vehículo en la cochera.
 
 3. **Identificación de Espacio y Tiempo**: El sistema detecta el espacio ocupado por el auto y calcula el tiempo de permanencia en el estacionamiento.
-   ![Espacio y Tiempo](./img/func2.png)
+   <div align="center"><img src="./img/func2.png" alt="Espacio y Tiempo" width="500" height="300">
 
 ## Implementación
 
@@ -79,10 +79,10 @@ La arquitectura del proyecto está diseñada para utilizar servicios en la nube 
 3. Ejecutar el programa usando `src/app.py`.
 4. Simular con las pruebas proporcionadas que incluyen dos videos de muestra.
 5. En cada frame de los videos se detecta la placa del auto y se captura la información.
-   ![Instrucciones de funcionamiento](./img/gifs/gif2.gif)
+   ![Instrucciones de funcionamiento](./img/gifs/gif3.gif)
 6. Se detecta el espacio ocupado por el auto.
 7. Se calcula el tiempo transcurrido desde que el auto se estaciona.
-   ![Instrucciones de funcionamiento](./img/gifs/gif3.gif)
+   ![Instrucciones de funcionamiento](./img/gifs/gif2.gif)
 
 ## Tópicos de Cloud Computing
 
@@ -94,7 +94,13 @@ La arquitectura del proyecto está diseñada para utilizar servicios en la nube 
 ## Referencias
 
 1. [Enhancing automated vehicle identification by integrating YOLO v8 and OCR techniques for high-precision license plate detection and recognition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832568) (23 Mayo 2024)
-   ![Referencia técnica](./img/ref1.png)
+   <div align="center"> <img src="./img/ref1.png" alt="Referencia técnica 2" width="400" height="400">
 
 2. [A Novel Car License Plate And Parking Slot Detection Approach Based on YOLO](https://www.researchgate.net/publication/381639203_Enhancing_automated_vehicle_identification_by_integrating_YOLO_v8_and_OCR_techniques_for_high-precision_license_plate_detection_and_recognition) (14 Junio 2024)
-   ![Referencia técnica 2](./img/ref2.png)
+   <div align="center"> <img src="./img/ref2.png" alt="Referencia técnica 2" width="400" height="400">
+
+
+
+
+
+
